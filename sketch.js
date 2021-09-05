@@ -8,7 +8,7 @@ var gameState=PLAY
 
 
 function preload(){
-  swordImage= loadImage("sword.png")
+  swordImage= loadImage("knife.png")
   enemyImage=loadAnimation("alien1.png","alien2.png")
   fruit1Image=loadImage("fruit1.png")
   fruit2Image=loadImage("fruit2.png")
